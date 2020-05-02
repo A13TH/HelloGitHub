@@ -1,5 +1,6 @@
 ﻿#include<iostream>
-int add(int x, int y);
+#include "add.h"
+
 int doubleNumber(int a)
 {
 	return 2 * a;
